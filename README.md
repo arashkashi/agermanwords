@@ -1,2 +1,2 @@
 # agermanwords
-german words to be used in the Lafro app
+German words with translation for learning.
